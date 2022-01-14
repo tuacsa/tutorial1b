@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("accenture.tutorial1b.ui5.tutorial1b.controller.View1", {
             onInit: function () {
-
+                    // Empty
             }
         });
     });
